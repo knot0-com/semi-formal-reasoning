@@ -72,3 +72,7 @@ From the paper's Django-13670 example: two patches for 2-digit year formatting l
 ## License
 
 MIT
+
+---
+
+Built by [Knot0](https://knot0.com) — software that assembles itself.
